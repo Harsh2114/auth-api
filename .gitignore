@@ -1,0 +1,5 @@
+auth_api.db
+
+.venv/
+__pycache__/
+.pytest_cache/
